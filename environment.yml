@@ -2,7 +2,7 @@ name: choropleth-environment
 channels:
   - conda-forge
 dependencies:
-  - python3
+  - python
   - numpy
   - psutil
   - toolz
