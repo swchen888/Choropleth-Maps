@@ -2,6 +2,7 @@ name: choropleth-environment
 channels:
   - conda-forge
   - bioconda
+  - pyviz
 dependencies:
   - python
   - numpy
@@ -22,3 +23,5 @@ dependencies:
   - plotly
   - dash
   - plotnine
+  - plydata
+  - holoviews
