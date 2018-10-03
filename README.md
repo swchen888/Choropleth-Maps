@@ -1,2 +1,2 @@
-# Choropleth-Maps
-Jupyter Notebooks for Choropleth Maps
+# Python Visualization
+Jupyter Notebooks for Python Visualization
