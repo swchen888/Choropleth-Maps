@@ -23,5 +23,6 @@ dependencies:
   - plotly
   - dash
   - plotnine
-  - plydata
   - holoviews
+  - pip:
+    - plydata
