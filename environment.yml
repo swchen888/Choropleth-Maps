@@ -24,5 +24,7 @@ dependencies:
   - dash
   - plotnine
   - holoviews
+  - scikit-learn
+  - scikit-misc
   - pip:
     - plydata
