@@ -25,6 +25,6 @@ dependencies:
   - plotnine
   - holoviews
   - scikit-learn
-  - scikit-misc
   - pip:
     - plydata
+    - scikit-misc
