@@ -26,6 +26,8 @@ dependencies:
   - holoviews
   - scikit-learn
   - pandas-datareader
+  - altair
+  - vega_datasets
   - pip:
     - plydata
     - scikit-misc
