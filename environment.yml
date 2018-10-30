@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - bioconda
   - pyviz
+  - ioam
 dependencies:
   - python
   - numpy
@@ -24,6 +25,7 @@ dependencies:
   - dash
   - plotnine
   - holoviews
+  - geoviews
   - scikit-learn
   - pandas-datareader
   - altair
