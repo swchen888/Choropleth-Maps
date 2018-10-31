@@ -32,6 +32,7 @@ dependencies:
   - vega_datasets
   - vega
   - notebook
+  - cartopy
   - pip:
     - plydata
     - scikit-misc
