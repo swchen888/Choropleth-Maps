@@ -1,4 +1,4 @@
-name: choropleth-environment
+name: python-visualization-env
 channels:
   - conda-forge
   - bioconda
